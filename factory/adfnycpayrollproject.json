@@ -1,0 +1,9 @@
+{
+	"name": "adfnycpayrollproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b83fc06f-30c0-4be2-9701-c4057b01859d",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
